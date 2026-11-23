@@ -1,0 +1,7 @@
+torch==2.12.0+cpu
+onnx==1.21.0
+onnxscript==0.7.0
+transformers==5.14.0
+onnxruntime==1.24.4
+numpy==2.5.5
+huggingface_hub==1.33.0

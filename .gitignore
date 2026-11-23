@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+*.log
+*.part
+model/*
+!model/config.json
+!model/LICENSE
+outputs/*.onnx
+!outputs/prefill-structure.onnx
+!outputs/decode-structure.onnx
+outputs-single-fp16/
+official-config/.cache/
+linear-check.onnx
+pip-freeze.txt
